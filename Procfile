@@ -1,0 +1,1 @@
+web: gunicorn "library_prject_restapi.wsgi"
